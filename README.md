@@ -1,2 +1,0 @@
-# Balda
-Project c++
